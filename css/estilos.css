@@ -20,7 +20,11 @@ body
 
 #cabecera #tagline
 {
+<<<<<<< HEAD
     margin: 1em 0 0 0;
+=======
+    margin: 1em 0 0;
+>>>>>>> cabecera
     font-weight: normal;
     font-size: 0.8em;
 }
